@@ -40,8 +40,8 @@ To provide more information to consumers about MechaCar compared to the competit
 
 ### What is the null hypothesis or alternative hypothesis?
 
-- Null hypothesis: Cost has no effect on safety rating
-- Alternative hypothesis: Cost has an effect on safety rating
+- Null hypothesis: MechaCar car's cost does not effect safety rating.
+- Alternative hypothesis: MechaCar car's cost effects safety rating.
 
 ### What statistical test would you use to test the hypothesis? And why?
 
