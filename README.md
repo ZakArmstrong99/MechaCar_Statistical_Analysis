@@ -22,7 +22,16 @@ The manufacturing data for all lots meets this specification, however, when look
 
 The p-value of the PSI from all lots is .06028, meaning that there is a higher probability that the PSI for all  of the lots does meet the mean PSI of 1500.
 
+![total_ttest](https://user-images.githubusercontent.com/107213807/191819997-e0b5a091-69a0-426b-8cce-eb02c1d9476c.png)
+
 When looking at the 3 lots independently, we find that Lot 1 meets the mean of 1500 exactly, with a p-value of 1. Lot 2 has a p-value of .6072, meaning that most of the values are close to the mean of 1500. When looking at Lot 3, the p-value is .04168, which means that the PSI from the lot has statistical significance. This is concerning as the mean PSI of Lot 3 does not meet the mean of 1500
+
+![lot1_ttest](https://user-images.githubusercontent.com/107213807/191820027-37ddf949-d33c-476e-8603-2bfbd44b7b09.png)
+
+![lot2_ttest](https://user-images.githubusercontent.com/107213807/191820090-dc506f03-b665-485a-be5e-6fb8949fe0d1.png)
+
+![lot3_ttest](https://user-images.githubusercontent.com/107213807/191820106-9ebf9dd9-e75c-4cd4-b9ab-2fc31b61badb.png)
+
 
 ## Study Design: MechaCar vs Competition
 ### What metric or metrics are you going to test?
